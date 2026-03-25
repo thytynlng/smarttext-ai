@@ -1,4 +1,4 @@
-# 🤖 SmartText AI
+# 🪼 SmartText AI
 
 A simple AI-powered text assistant web app.
 
